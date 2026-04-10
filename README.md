@@ -92,11 +92,15 @@ Identification of value-for-money products
 - 🏷️ Average Discount
 - 📦 Inventory Levels
 - 🖼️ Dashboard Preview
-```
-![Overview](images/overview.png)
-![Pricing](images/pricing.png)
-![Inventory](images/inventory.png)
-```
+![Overview](https://github.com/neharahate07/Zepto-Business-Data-Analysis-SQL-Power-Bi-/blob/main/IMG_20260410_120235.jpg.jpeg)
+
+## 📂 Project Files
+
+| File Type | Description | Link |
+|----------|------------|------|
+| 📊 Dataset | Raw product data | [View](https://github.com/neharahate07/Zepto-Business-Data-Analysis-SQL-Power-Bi-/blob/main/zepto_data.xlsx) |
+| 🗄️ SQL Script | Data cleaning & analysis queries | [View](https://github.com/neharahate07/Zepto-Business-Data-Analysis-SQL-Power-Bi-/blob/main/Zepto%20SQL%20Project.sql) |
+| 📈 Power BI Dashboard | Interactive dashboard file | [Download](https://github.com/neharahate07/Zepto-Business-Data-Analysis-SQL-Power-Bi-/blob/main/Zepto%20Dashboard.pbix) |
 
 
 **💼 Business Insights**
