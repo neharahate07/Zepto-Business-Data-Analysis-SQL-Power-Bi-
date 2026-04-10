@@ -94,6 +94,20 @@ Identification of value-for-money products
 - 🖼️ Dashboard Preview
 ![Overview](https://github.com/neharahate07/Zepto-Business-Data-Analysis-SQL-Power-Bi-/blob/main/IMG_20260410_120235.jpg.jpeg)
 
+## 📈 SQL Analysis Sample
+
+```sql
+-- Average discount by category
+SELECT category, AVG(discount) AS avg_discount
+FROM products
+GROUP BY category;
+
+-- Identify out-of-stock products
+SELECT product_name, category
+FROM products
+WHERE stock = 0;
+```
+
 ## 📂 Project Files
 
 | File Type | Description | Link |
@@ -133,8 +147,6 @@ zepto-sql-business-analysis/
 ├── dashboard.pbix
 ├── images/
 │   ├── overview.png
-│   ├── pricing.png
-│   ├── inventory.png
 │
 └── README.md
 ```
@@ -162,7 +174,9 @@ zepto-sql-business-analysis/
 - Deploy dashboard online (Power BI Service)
 
 
-
+## 👩‍💻 Author
+**Neha Rahate**  
+MBA (Business Analytics) | Aspiring Data Analyst  
 
 
 
